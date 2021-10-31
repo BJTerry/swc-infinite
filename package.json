@@ -1,0 +1,11 @@
+{
+  "name": "swc-infinite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@swc/cli": "^0.1.51",
+    "@swc/core": "^1.2.105",
+    "prettier": "^2.4.1"
+  }
+}
