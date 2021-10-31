@@ -41,3 +41,5 @@ RUST_BACKTRACE=full node index.mjs
 ```
 
 Note that this was originally discovered with Node 12.22.6, this is a minimal reproduction with the latest dependencies. The environment for reproduction is Mac OS X 11.6.1 with an x86 processer.
+
+bad_terser.js is an example of how this input is handled with the terser command line & the `--compress`
